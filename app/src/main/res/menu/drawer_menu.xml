@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/m_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/home"
+            android:checked="true"/>
+        <item
+            android:id="@+id/m_new_group"
+            android:icon="@drawable/ic_new_group"
+            android:title="@string/new_group" />
+        <item
+            android:id="@+id/m_contact"
+            android:icon="@drawable/ic_contacts"
+            android:title="@string/contact" />
+        <item
+            android:id="@+id/m_call"
+            android:icon="@drawable/ic_call"
+            android:title="@string/calls" />
+        <item
+            android:id="@+id/m_people"
+            android:icon="@drawable/ic_people_nearby"
+            android:title="@string/people_nearby" />
+        <item
+            android:id="@+id/m_saved"
+            android:icon="@drawable/ic_saved"
+            android:title="@string/saved" />
+        <item
+            android:id="@+id/m_setting"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/setting" />
+    </group>
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/m_invite"
+            android:icon="@drawable/ic_invite"
+            android:title="@string/invite" />
+        <item
+            android:id="@+id/m_faq"
+            android:icon="@drawable/ic_faq"
+            android:title="@string/faq" />
+    </group>
+</menu>

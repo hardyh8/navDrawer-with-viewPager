@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">navDrawer</string>
+
+    <string name="open">Open</string>
+    <string name="close">close</string>
+    <string name="new_group">New Group</string>
+    <string name="contact">Contact</string>
+    <string name="calls">Calls</string>
+    <string name="people_nearby">People Nearby</string>
+    <string name="saved">Saved Message</string>
+    <string name="setting">Settings</string>
+    <string name="invite">Invite People</string>
+    <string name="faq">Frequently Asked Questions</string>
+    <string name="user_name">Hardik Dhameliya</string>
+    <string name="phone_number">+91*******769</string>
+    <string name="all">ALL</string>
+    <string name="folder">Folders</string>
+    <string name="home">Home</string>
+</resources>
